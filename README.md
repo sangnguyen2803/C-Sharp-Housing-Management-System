@@ -1,0 +1,2 @@
+# C-Sharp-Housing-Management-System
+Project: Housing management system - This project is a desktop application using Windows Forms and ADO.NET (database connection) - For more detailed, it is an application used for managing transaction (buying, selling and renting) that has been done by customers, managers and administrators. Moreover, the application also performs how possibly the concurrent transaction problems occurs, and give solutions to deal with them. 
